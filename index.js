@@ -16,4 +16,4 @@ bot.status({
   time: 12
 })
 
-bot.loadCommands('./command/')
+bot.loadCommands('./commands/')
