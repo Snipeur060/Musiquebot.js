@@ -1,0 +1,39 @@
+--Supprimer cette ligne. En dessous pour le server.js--
+
+{
+  "name": "-asdf",
+  "version": "1",
+  "description": "Snipeur060 template",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "Snipeur060 ",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^1.0.6"
+  }
+}
+
+--Supprimer cette ligne. En dessous pour le index.js--
+
+{
+  "name": "-asdf",
+  "version": "1",
+  "description": "Snipeur060 template",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "Snipeur060",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^1.0.6"
+  }
+}
