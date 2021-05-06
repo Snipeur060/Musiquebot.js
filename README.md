@@ -1,3 +1,3 @@
 # Musiquebot.js
-<center>Bot de musique aoi.js simple et rapide</center></br>
+Bot de musique aoi.js simple et rapide</br>
 Fait sur la base de FlyBot
